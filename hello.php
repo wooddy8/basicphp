@@ -8,3 +8,7 @@ print "HELLO PHP<br>";
 
 <!-- ตำสั่งแสดงผลแบบที่ 3-->
 <?="HELLO PHP<br>";?>
+
+<?php
+echo "Test New";
+?>
